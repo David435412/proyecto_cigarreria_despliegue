@@ -1,0 +1,1255 @@
+{
+  "usuarios": [
+    {
+      "nombre": "David Santiago Murcia",
+      "nombreUsuario": "david12",
+      "correo": "patodonaldcajon4@gmail.com",
+      "telefono": "3103220039",
+      "direccion": "Cll 132 c N 137",
+      "tipoDocumento": "cedula",
+      "numeroDocumento": "123456789",
+      "rol": "administrador",
+      "estado": "activo",
+      "contrasena": "Dgplq456",
+      "id": "001"
+    },
+    {
+      "id": "4115",
+      "nombre": "Darwin",
+      "contrasena": "Gduzlq456",
+      "nombreUsuario": "Darwin Lesmes",
+      "tipoDocumento": "Cédula",
+      "numeroDocumento": "1031808326",
+      "correo": "darwinlesmes0914@gmail.com",
+      "telefono": "3133138027",
+      "direccion": "call 137# 128B-01",
+      "rol": "cajero",
+      "estado": "activo",
+      "codigoRecuperacion": "638388"
+    },
+    {
+      "id": "dca3",
+      "nombre": "Miguel Ortiz",
+      "contrasena": "Grplfloldulr456",
+      "nombreUsuario": "Miguel",
+      "tipoDocumento": "Cédula",
+      "numeroDocumento": "10218201312",
+      "correo": "patodonaldcajon2@gmail.com",
+      "telefono": "319012913",
+      "direccion": "call 137# 100A-02",
+      "rol": "domiciliario",
+      "estado": "activo"
+    },
+    {
+      "id": "fcf0",
+      "nombre": "James rodriguez",
+      "contrasena": "Folhqwh456",
+      "nombreUsuario": "James",
+      "correo": "davidm435465123@gmail.com",
+      "telefono": "2108108213",
+      "direccion": "call 232# 100A-02",
+      "tipoDocumento": "Cédula",
+      "numeroDocumento": "10208121312",
+      "estado": "activo",
+      "rol": "cliente"
+    },
+    {
+      "id": "3428",
+      "nombre": "Santiago Lesmes",
+      "contrasena": "Grplfloldulr4567",
+      "nombreUsuario": "Santiago",
+      "tipoDocumento": "Cédula",
+      "numeroDocumento": "1081213121",
+      "correo": "patodonaldcajon3@gmail.com",
+      "telefono": "1209131213",
+      "direccion": "call 75# 112",
+      "rol": "domiciliario",
+      "estado": "activo"
+    }    
+  ],
+  "productos": [
+    {
+      "id": "a783",
+      "nombre": "Cerveza Club Colombia Dorada lata x6und x330ml",
+      "precio": "18.700",
+      "descripcion": "Tipo de cerveza: Lager ABV: 4,7% País de origen: Colombia.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/491967-1600-1600?v=638216692937930000&width=1600&height=1600&aspect=true",
+      "categoria": "Licores",
+      "cantidad": "30",
+      "marca": "Babaria",
+      "estado": "activo"
+    },
+    {
+      "id": "b5c6",
+      "nombre": "Cerveza Aguila Original lata x6und x330ml",
+      "precio": "18.000",
+      "descripcion": "Tipo de cerveza: Lager. País de origen: Colombia. ABV: 4,0%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/439991-1600-1600?v=638043996501300000&width=1600&height=1600&aspect=true",
+      "categoria": "Licores",
+      "cantidad": 48,
+      "marca": "Babaria",
+      "estado": "activo"
+    },
+    {
+      "id": "105c",
+      "nombre": "Cerveza Poker lata x6und x330ml cu",
+      "precio": "18.000",
+      "descripcion": "Tipo de cerveza: Lager. País de origen: Colombia. ABV: 4,0%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440018-1600-1600?v=638043996576070000&width=1600&height=1600&aspect=true",
+      "categoria": "Licores",
+      "cantidad": 110,
+      "marca": "Babaria",
+      "estado": "activo"
+    },
+    {
+      "id": "3445",
+      "nombre": "Cerveza Coronita botella x6und x210ml",
+      "precio": "7.500",
+      "descripcion": "Tipo de cerveza: Lager. País de Origen: México ABV: 4,5%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440069-1600-1600?v=638043996740100000&width=1600&height=1600&aspect=true",
+      "categoria": "Licores",
+      "cantidad": "20",
+      "marca": "Babaria",
+      "estado": "activo"
+    },
+    {
+      "id": "12ef",
+      "nombre": "Chocolatina Jet Leche x12und x132g",
+      "precio": "12.750",
+      "descripcion": "Regálate a ti mismo o a tus seres queridos un momento de felicidad con los productos que Jet trae para ti.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/653021-1600-1600?v=638582162050400000&width=1600&height=1600&aspect=true",
+      "categoria": "Confitería",
+      "cantidad": "50",
+      "marca": "Jet",
+      "estado": "activo"
+    },
+    {
+      "id": "0dc7",
+      "nombre": "Galleta Gol chocolate x3und x93g cu",
+      "precio": "4.690",
+      "descripcion": "Combinación del más delicioso chocolate, galleta, arroz crujiente, caramelo, maní y almendras para llenar de sensaciones tu boca.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/194548-1600-1600?v=637814055458900000&width=1600&height=1600&aspect=true",
+      "categoria": "Confitería",
+      "cantidad": 112,
+      "marca": "GOL",
+      "estado": "activo"
+    },
+    {
+      "id": "ce57",
+      "nombre": "Snickers barra de chocolate y maní x52.7g",
+      "precio": "6.090",
+      "descripcion": "Deliciosa barra de chocolate de leche * Rellena de maní, cremoso caramelo y nougat",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/367867-1600-1600?v=637889251308670000&width=1600&height=1600&aspect=true",
+      "categoria": "Confitería",
+      "cantidad": 367,
+      "marca": "Snickers",
+      "estado": "activo"
+    },
+    {
+      "id": "3c27",
+      "nombre": "Atún En Agua Van Camps x 160g x 4und",
+      "precio": "35.270",
+      "descripcion": "Atun En Agua Van Camps, delicioso y nutritivo perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652029-1600-1600?v=638578552980330000&width=1600&height=1600&aspect=true",
+      "categoria": "Enlatados",
+      "cantidad": 92,
+      "marca": "Van Camps",
+      "estado": "activo"
+    },
+    {
+      "id": "383f",
+      "nombre": " Atún Cuisine&Co lomo aceite soya x4und x160g c-u",
+      "precio": "4.490",
+      "descripcion": "Lomos de atún (thunnus albacares), Aceite vegetal de soya, Agua, Sal, Pescado",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/381411-1600-1600?v=637923060574430000&width=1600&height=1600&aspect=true",
+      "categoria": "Enlatados",
+      "cantidad": 196,
+      "marca": "CUISINE & CO NBE MP",
+      "estado": "activo"
+    },
+    {
+      "id": "08a5",
+      "nombre": " Sardina Van Camps Salsa Tomate x 225g",
+      "precio": "6.470",
+      "descripcion": "Sardina Vancamps Premium Salsa Tomate, deliciosas y nutritivas perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652128-1600-1600?v=638578553793170000&width=1600&height=1600&aspect=true",
+      "categoria": "Enlatados",
+      "cantidad": 246,
+      "marca": "Van Camps",
+      "estado": "activo"
+    },
+    {
+      "id": "05ec",
+      "nombre": " Desengrasante maxima citrico x1000ml",
+      "precio": "8.000",
+      "descripcion": "Desengrasante maxima citrico x1000ml",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/198924-1600-1600?v=637814139078470000&width=1600&height=1600&aspect=true",
+      "categoria": "Aseo",
+      "cantidad": 499,
+      "marca": "MAXIMA MP",
+      "estado": "activo"
+    },
+    {
+      "id": "b3cd",
+      "nombre": "Home Care eliminador de olores Frutos Rojos x400ml",
+      "precio": "7.590",
+      "descripcion": "Desinfectante Home Care eliminador de malos olores Frutos Rojos x400ml",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/378871-1600-1600?v=637916947079700000&width=1600&height=1600&aspect=true",
+      "categoria": "Aseo",
+      "cantidad": 137,
+      "marca": "HOME CARE MP",
+      "estado": "activo"
+    },
+    {
+      "id": "fd3f",
+      "nombre": "Helado Crem Helado choco cono x 90g",
+      "precio": "3.590",
+      "descripcion": "Helado de leche con grasa vegetal, sabor a vainilla con cubierta sabor a Chocolate.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/219111-1600-1600?v=637816519431570000&width=1600&height=1600&aspect=true",
+      "categoria": "Helados",
+      "cantidad": 99,
+      "marca": "CREM-HELADO",
+      "estado": "activo"
+    },
+    {
+      "id": "3e7d",
+      "nombre": "Dulce Chocobreak tradicional x30und x 150g",
+      "precio": "10.000",
+      "descripcion": "Disfruta de Choco Break Tradicional x 30 x 150g en cualquier lugar y cualquier momento.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652155-1600-1600?v=638578553904400000&width=1600&height=1600&aspect=true",
+      "categoria": "Confitería",
+      "cantidad": 92,
+      "marca": "colanta",
+      "estado": "activo"
+    },
+    {
+      "id": "1610",
+      "nombre": "Malta Pony Malta Botella Pet X6 Unidades X200ml",
+      "precio": "9.320",
+      "descripcion": "Pony Malta es elaborada a base de malta, agua, azúcar, malta de cebada, vitaminas, entre otros ingredientes.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/658712-1600-1600?v=638598447225300000&width=1600&height=1600&aspect=true",
+      "categoria": "Bebidas",
+      "cantidad": "65",
+      "marca": "colanta",
+      "estado": "activo"
+    },
+    {
+      "id": "794a",
+      "nombre": "Cerveza Corona lata x6unds x269ml",
+      "precio": "19.890",
+      "descripcion": "Tipo de cerveza: Lager. País de Origen: México ABV: 4,5%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440072-1600-1600?v=638043996747900000&width=1600&height=1600&aspect=true",
+      "categoria": "Licores",
+      "cantidad": 119,
+      "marca": "Babaria",
+      "estado": "activo"
+    },
+    {
+      "id": "123f",
+      "nombre": "Cerveza Heineken 6 pack lata x269ml",
+      "precio": "19.400",
+      "descripcion": "Cerveza Heineken 6 pack lata x269ml. El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/435457-1600-1600?v=638023180358170000&width=1600&height=1600&aspect=true",
+      "categoria": "Licores",
+      "cantidad": 123,
+      "marca": "Babaria",
+      "estado": "activo"
+    },
+    {
+      "id": "7fd5",
+      "nombre": "Atún Aceite Oliva 3und x 80g Van Camps",
+      "precio": "13.790",
+      "descripcion": "Atun Aceite Oliva, delicioso y nutritivo perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652019-1600-1600?v=638578552939870000&width=1600&height=1600&aspect=true",
+      "categoria": "Enlatados",
+      "cantidad": 89,
+      "marca": "Van Camps",
+      "estado": "activo"
+    },
+    {
+      "id": "c7f8",
+      "nombre": "Atún En Aceite Van Camps x 160g x 4und",
+      "precio": "37.000",
+      "descripcion": "Atun En Aceite Van Camps, delicioso y nutritivo perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652028-1600-1600?v=638578552977030000&width=1600&height=1600&aspect=true",
+      "categoria": "Enlatados",
+      "cantidad": "120",
+      "marca": "Van Camps",
+      "estado": "activo"
+    },
+    {
+      "id": "a449",
+      "nombre": "Atún Van Camps Lomitos Agua x 160g",
+      "precio": "8.290",
+      "descripcion": "Atun Van Camps Lomitos Agua, delicioso y nutritivo perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652027-1600-1600?v=638578552972730000&width=1600&height=1600&aspect=true",
+      "categoria": "Enlatados",
+      "cantidad": "250",
+      "marca": "Van Camps",
+      "estado": "activo"
+    },
+    {
+      "id": "ed1c",
+      "nombre": "Sardina Cilíndrica Van Camps Abre fácil x 170g",
+      "precio": "5.990",
+      "descripcion": "Sardina Cilindrica Van Camps Abrefacil, deliciosas y nutritivas perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652127-1600-1600?v=638578553789400000&width=1600&height=1600&aspect=true",
+      "categoria": "Enlatados",
+      "cantidad": "200",
+      "marca": "Van Camps",
+      "estado": "activo"
+    },
+    {
+      "id": "fbae",
+      "nombre": " Atún Van Camps Lomitos Aceite Oliva x 160g",
+      "precio": "10.300",
+      "descripcion": "Atun Van Camps Lomitos Aceite Oliva, delicioso y nutritivo perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652030-1600-1600?v=638578552984000000&width=1600&height=1600&aspect=true",
+      "categoria": "Enlatados",
+      "cantidad": "240",
+      "marca": "Van Camps",
+      "estado": "activo"
+    },
+    {
+      "id": "03f1",
+      "nombre": "Blanqueador Clorox Original Botella 3.8 lt",
+      "precio": "16.900",
+      "descripcion": "El Blanqueador Clorox limpia, desinfecta y cuida todas las superficies de tu casa. Elimina el 99,9% de virus y bacterias, incluido el virus causante del COVID-19.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/639294-1600-1600?v=638550986365200000&width=1600&height=1600&aspect=true",
+      "categoria": "Aseo",
+      "cantidad": "80",
+      "marca": "CLOROX",
+      "estado": "activo"
+    },
+    {
+      "id": "c986",
+      "nombre": "Blanqueador en Gel Clorox Pureza Cítrica x1L",
+      "precio": "9.190",
+      "descripcion": "Blanqueador en Gel Clorox, aroma a pureza cítrica, tiene una fórmula con mayor efecto limpiador que elimina el 99,9% de virus y bacterias, desinfecta, desodoriza y blanquea cada superficie. Además, brinda 48 horas de prevención contra las bacterias.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/533943-1600-1600?v=638332407824600000&width=1600&height=1600&aspect=true",
+      "categoria": "Aseo",
+      "cantidad": 54,
+      "marca": "CLOROX",
+      "estado": "activo"
+    },
+    {
+      "id": "e288",
+      "nombre": "Blanqueador Clorox Magia Floral Botella 3.8 lt",
+      "precio": "16.900",
+      "descripcion": "El Blanqueador Clorox Magia Floral, limpia, desinfecta y cuida todas las superficies de tu casa. Elimina el 99,9% de virus y bacterias, incluido el virus causante del COVID-19.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/639283-1600-1600?v=638550984249200000&width=1600&height=1600&aspect=true",
+      "categoria": "Aseo",
+      "cantidad": "67",
+      "marca": "CLOROX",
+      "estado": "activo"
+    },
+    {
+      "id": "f32f",
+      "nombre": "Blanqueador blancox desinfectantex3800ml",
+      "precio": "15.990",
+      "descripcion": "Blanqueador blancox desinfectantex3800ml",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/209764-1600-1600?v=637814211618230000&width=1600&height=1600&aspect=true",
+      "categoria": "Aseo",
+      "cantidad": "96",
+      "marca": "BLANCOX",
+      "estado": "activo"
+    },
+    {
+      "id": "2839",
+      "nombre": "Toallitas Desinfectantes Expert x30und",
+      "precio": "9.790",
+      "descripcion": "Las Toallitas Desinfectantes Clorox Expert limpian y desinfectan con rapidez las múltiples superficies de tu hogar, mientras que eliminan el 99,9% de virus y bacterias. Además, brindan 48 horas de prevención contra las bacterias",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/533941-1600-1600?v=638332407812900000&width=1600&height=1600&aspect=true",
+      "categoria": "Aseo",
+      "cantidad": "200",
+      "marca": "CLOROX",
+      "estado": "activo"
+    },
+    {
+      "id": "ca95",
+      "nombre": "Tabletas Dolex gripa multisintomas x12 tabs",
+      "precio": "17.000",
+      "descripcion": "Uso oral. No exceder la dosis diaria recomendada o la frecuencia de administración. No tomar con otros productos que contienen acetaminofén, descongestionantes o antihistamínicos, incluyendo medicinas para el alivio de la tos o el resfriado. Mayores de 12 años y adultos (Incluyendo adultos mayores): 1-2 tabletas cada 4-6 horas, según sea requerido.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/568713-1600-1600?v=638427548366930000&width=1600&height=1600&aspect=true",
+      "categoria": "Drogas",
+      "cantidad": "100",
+      "marca": "DOLEX",
+      "estado": "activo"
+    },
+    {
+      "id": "3598",
+      "nombre": "Ungüento Vick Vaporub Topico x100g",
+      "precio": "35.890",
+      "descripcion": "VapoRub libera vapores medicinales que pasan a través de las vías respiratorias aliviando la tos y la congestión nasal.\n\nA su vez, VapoRub alivia los dolores musculares causados por gripes o resfriados comunes.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/640015-1600-1600?v=638555260663800000&width=1600&height=1600&aspect=true",
+      "categoria": "Drogas",
+      "cantidad": 115,
+      "marca": "VICK",
+      "estado": "activo"
+    },
+    {
+      "id": "c917",
+      "nombre": "Noraver pastillas naranja miel 12 tabletas",
+      "precio": "21.400",
+      "descripcion": "Refresca y desinfecta tu garganta con Noraver Pastillas Naranja Miel. Su potente fórmula elimina los virus y las bacterias que causan infecciones. Alivia el dolor. Suaviza tu garganta.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/459473-1600-1600?v=638108813448470000&width=1600&height=1600&aspect=true",
+      "categoria": "Drogas",
+      "cantidad": "121",
+      "marca": "NORAVER",
+      "estado": "activo"
+    },
+    {
+      "id": "ef93",
+      "nombre": "Noraver pastillas menta Forte 12 tabletas",
+      "precio": "19.350",
+      "descripcion": "Refresca y desinfecta tu garganta con Noraver Pastillas Menta Forte. Su potente fórmula elimina los virus y las bacterias que causan infecciones. Alivia el dolor. Suaviza tu garganta.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/459475-1600-1600?v=638108813456100000&width=1600&height=1600&aspect=true",
+      "categoria": "Drogas",
+      "cantidad": "80",
+      "marca": "NORAVER",
+      "estado": "activo"
+    },    
+    {
+      "id": "fa53",
+      "nombre": " Helado Polet mini surtido x6und x45g",
+      "precio": "20.890",
+      "descripcion": "Pack x 6 und de Mini Polet, mezcla de paletas de Cookies and Cream y Frutos del bosque.\nLa mejor combinación de dulzura y elegancia para disfrutar en compañía o solo.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/522592-1600-1600?v=638307581187130000&width=1600&height=1600&aspect=true",
+      "categoria": "Helados",
+      "cantidad": 99,
+      "marca": "POLET",
+      "estado": "activo"
+    },
+    {
+      "id": "0a81",
+      "nombre": "Helado Crem Helado veteado mora x5l",
+      "precio": "49.790",
+      "descripcion": "INGREDIENTES: Helado: Leche, azúcar, grasa vegetal, glucosa, leche en\npolvo descremada, suero en polvo, emulsificante - estabilizante (mono y\ndiglicéridos, goma de algarrobo, goma celulósica, carragenina),\nmaltodextrina, saborizante artificial. Salsa de mora: Pulpa de mora, agua,\nazúcar, glucosa, almidón modificado, estabilizante (pectina), colorantes\nnaturales (carmín y carbón), saborizante idéntico al natural.",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/196099-1600-1600?v=637814128058230000&width=1600&height=1600&aspect=true",
+      "categoria": "Helados",
+      "cantidad": "120",
+      "marca": "CREM-HELADO",
+      "estado": "activo"
+    },
+    {
+      "id": "214e",
+      "nombre": " Helado Pop Cream vainilla x 2375g",
+      "precio": "42.990",
+      "descripcion": "Creado con ingredientes de alta calidad, el Pop Crem helado con sabor a vainilla se distingue por su textura suave y su rico sabor. La vainilla, con su perfil de aroma y dulzura distintivos, se combina magistralmente para crear una deliciosa sinfonía de sabores en cada cucharada. ",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/216155-1600-1600?v=637814287714570000&width=1600&height=1600&aspect=true",
+      "categoria": "Helados",
+      "cantidad": "85",
+      "marca": "POP CREAM",
+      "estado": "activo"
+    },
+    {
+      "id": "65d3",
+      "nombre": "Helado Crem Helado vainilla fresa x5l",
+      "precio": "49.790",
+      "descripcion": "Ingredientes\n\nLeche, Agua, Leche en polvo, Glucosa, Azúcar, Grasa vegetal, Suero en polvo, Almidón modificado, Emulsificante - estabilizante mono y diglicéridos de ácidos grasos, Emulsificante - estabilizante goma guar, Emulsificante - estabilizante goma xantana, Emulsificante-estabilizante goma de celulosa, Emulsificante - estabilizante alga euchema elaborada, Emulsificante - estabilizante goma tara, Emulsificante - estabilizante carragenina, Emulsificante - estabilizante maltodextrina, Emulsificante - estabilizante goma arábiga, Maltodextrina, Saborizante artificial, Acidulante ácido cítrico, Colorante natural carmín, Colorante natural anato",
+      "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/202383-1600-1600?v=637814158338570000&width=1600&height=1600&aspect=true",
+      "categoria": "Helados",
+      "cantidad": 34,
+      "marca": "CREM-HELADO",
+      "estado": "activo"
+    }
+  ],
+  "proveedores": [
+    {
+      "id": "1",
+      "nombre": "Bimbo",
+      "telefono": "3133345082",
+      "correo": "bimbo@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "b8e1",
+      "nombre": "ALPINA",
+      "telefono": "93218938",
+      "correo": "alpina@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "b114",
+      "nombre": "CREM-HELADO",
+      "telefono": "218772182",
+      "correo": "cremhelado@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "b214",
+      "nombre": "Babaria",
+      "telefono": "218772182",
+      "correo": "babaria@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "b514",
+      "nombre": "Van Camps",
+      "telefono": "218772182",
+      "correo": "Van@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "b522",
+      "nombre": "Snickers",
+      "telefono": "218772182",
+      "correo": "S@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "c022",
+      "nombre": "GOL",
+      "telefono": "218772182",
+      "correo": "g@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "c023",
+      "nombre": "Jet",
+      "telefono": "218772182",
+      "correo": "davidm435465123@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "c024",
+      "nombre": "CUISINE & CO NBE MP",
+      "telefono": "218002182",
+      "correo": "cuisine@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "c025",
+      "nombre": "MAXIMA MP",
+      "telefono": "218002112",
+      "correo": "maxima@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "c026",
+      "nombre": "HOME CARE MP",
+      "telefono": "218005512",
+      "correo": "home@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "1474",
+      "nombre": "colanta",
+      "telefono": "1297187313",
+      "correo": "colanta@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "03fe",
+      "nombre": "Pony Malta",
+      "telefono": "3103220123",
+      "correo": "ponymalta@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "17fa",
+      "nombre": "CLOROX",
+      "telefono": "318722113",
+      "correo": "clorox@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "45c6",
+      "nombre": "BLANCOX",
+      "telefono": "3165223112",
+      "correo": "blancox@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "aff9",
+      "nombre": "DOLEX",
+      "telefono": "310221131",
+      "correo": "dolex@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "75ce",
+      "nombre": "VICK",
+      "telefono": "3102281331",
+      "correo": "vick@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "c417",
+      "nombre": "NORAVER",
+      "telefono": "3218773141",
+      "correo": "noraver@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "53f9",
+      "nombre": "POLET",
+      "telefono": "3227661131",
+      "correo": "polet@gmail.com",
+      "estado": "activo"
+    },
+    {
+      "id": "5e5d",
+      "nombre": "POP CREAM",
+      "telefono": "3219883312",
+      "correo": "popcream@gmail.com",
+      "estado": "activo"
+    }
+  ],
+  "pedidos": [
+    {
+      "id": "5739",
+      "usuarioId": "4115",
+      "direccion": "call 137 # 100 B - 01",
+      "nombre": "murciaq",
+      "correo": "david@gmail.com",
+      "telefono": "3138382398",
+      "productos": [
+        {
+          "id": "105c",
+          "nombre": "Cerveza Poker lata x6und x330ml cu",
+          "precio": "18.000",
+          "descripcion": "Tipo de cerveza: Lager. País de origen: Colombia. ABV: 4,0%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440018-1600-1600?v=638043996576070000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 1,
+          "marca": "Babaria",
+          "estado": "activo"
+        }
+      ],
+      "fecha": "2024-10-20T22:28:03.001Z",
+      "estadoPedido": "entregado",
+      "estado": "activo",
+      "metodoPago": "efectivo",
+      "asignado": "dca3"
+    },
+    {
+      "id": "3efc",
+      "usuarioId": "4115",
+      "direccion": "call 137 # 100 B - 01",
+      "nombre": "murcia",
+      "correo": "david@gmail.com",
+      "telefono": "3138382398",
+      "productos": [
+        {
+          "id": "0dc7",
+          "nombre": "Galleta Gol chocolate x3und x93g cu",
+          "precio": "4.690",
+          "descripcion": "Combinación del más delicioso chocolate, galleta, arroz crujiente, caramelo, maní y almendras para llenar de sensaciones tu boca.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/194548-1600-1600?v=637814055458900000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 1,
+          "marca": "GOL",
+          "estado": "activo"
+        }
+      ],
+      "fecha": "2024-10-15T22:32:54.418Z",
+      "estadoPedido": "pendiente",
+      "estado": "activo",
+      "metodoPago": "efectivo",
+      "asignado": "dca3"
+    },
+    {
+      "id": "c136",
+      "usuarioId": "fcf0",
+      "direccion": "calle 183 #28",
+      "nombre": "james  rodriguez",
+      "correo": "davidm435465123@gmail.com",
+      "telefono": "2108108213",
+      "productos": [
+        {
+          "id": "fd3f",
+          "nombre": "Helado Crem Helado choco cono x 90g",
+          "precio": "3.590",
+          "descripcion": "Helado de leche con grasa vegetal, sabor a vainilla con cubierta sabor a Chocolate.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/219111-1600-1600?v=637816519431570000&width=1600&height=1600&aspect=true",
+          "categoria": "Helados",
+          "cantidad": 1,
+          "marca": "CREM-HELADO",
+          "estado": "activo"
+        }
+      ],
+      "fecha": "2024-10-20T22:43:38.962Z",
+      "estadoPedido": "entregado",
+      "estado": "activo",
+      "metodoPago": "efectivo",
+      "asignado": "dca3"
+    },
+    {
+      "id": "3de9",
+      "usuarioId": "fcf0",
+      "direccion": "calle 183 #28",
+      "nombre": "james  rodriguez",
+      "correo": "davidm435465123@gmail.com",
+      "telefono": "2108108213",
+      "productos": [
+        {
+          "id": "3e7d",
+          "nombre": "Dulce Chocobreak tradicional x30und x 150g",
+          "precio": "10.000",
+          "descripcion": "Disfruta de Choco Break Tradicional x 30 x 150g en cualquier lugar y cualquier momento.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652155-1600-1600?v=638578553904400000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 1,
+          "marca": "colanta",
+          "estado": "activo"
+        }
+      ],
+      "fecha": "2024-10-20T22:44:13.448Z",
+      "estadoPedido": "cancelado",
+      "estado": "inactivo",
+      "metodoPago": "efectivo"
+    },
+    {
+      "id": "35cb",
+      "usuarioId": "4115",
+      "direccion": "call 137 # 128 B - 01",
+      "nombre": "murcia",
+      "correo": "david@gmail.com",
+      "telefono": "3138382398",
+      "productos": [
+        {
+          "id": "ce57",
+          "nombre": "Snickers barra de chocolate y maní x52.7g",
+          "precio": "6.090",
+          "descripcion": "Deliciosa barra de chocolate de leche * Rellena de maní, cremoso caramelo y nougat",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/367867-1600-1600?v=637889251308670000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 1,
+          "marca": "Snickers",
+          "estado": "activo"
+        }
+      ],
+      "fecha": "2024-10-20T22:45:01.130Z",
+      "estadoPedido": "pendiente",
+      "estado": "activo",
+      "metodoPago": "efectivo"
+    },
+    {
+      "id": "279b",
+      "usuarioId": "4115",
+      "direccion": "K 12 N 41",
+      "nombre": "wilmer",
+      "correo": "w@gmail.com",
+      "telefono": "1287123",
+      "productos": [
+        {
+          "id": "65d3",
+          "nombre": "Helado Crem Helado vainilla fresa x5l",
+          "precio": "49.790",
+          "descripcion": "Ingredientes\n\nLeche, Agua, Leche en polvo, Glucosa, Azúcar, Grasa vegetal, Suero en polvo, Almidón modificado, Emulsificante - estabilizante mono y diglicéridos de ácidos grasos, Emulsificante - estabilizante goma guar, Emulsificante - estabilizante goma xantana, Emulsificante-estabilizante goma de celulosa, Emulsificante - estabilizante alga euchema elaborada, Emulsificante - estabilizante goma tara, Emulsificante - estabilizante carragenina, Emulsificante - estabilizante maltodextrina, Emulsificante - estabilizante goma arábiga, Maltodextrina, Saborizante artificial, Acidulante ácido cítrico, Colorante natural carmín, Colorante natural anato",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/202383-1600-1600?v=637814158338570000&width=1600&height=1600&aspect=true",
+          "categoria": "Helados",
+          "cantidad": 1,
+          "marca": "CREM-HELADO",
+          "estado": "activo"
+        }
+      ],
+      "fecha": "2024-10-21T01:51:22.006Z",
+      "estadoPedido": "pendiente",
+      "estado": "activo",
+      "metodoPago": "efectivo"
+    },
+    {
+      "id": "84b0",
+      "usuarioId": "4115",
+      "direccion": "K 12 N 41",
+      "nombre": "wilmer",
+      "correo": "w@gmail.com",
+      "telefono": "93218938",
+      "productos": [
+        {
+          "id": "383f",
+          "nombre": " Atún Cuisine&Co lomo aceite soya x4und x160g c-u",
+          "precio": "4.490",
+          "descripcion": "Lomos de atún (thunnus albacares), Aceite vegetal de soya, Agua, Sal, Pescado",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/381411-1600-1600?v=637923060574430000&width=1600&height=1600&aspect=true",
+          "categoria": "Enlatados",
+          "cantidad": 1,
+          "marca": "CUISINE & CO NBE MP",
+          "estado": "activo"
+        }
+      ],
+      "fecha": "2024-10-21T01:52:08.394Z",
+      "estadoPedido": "pendiente",
+      "estado": "activo",
+      "metodoPago": "efectivo"
+    },
+    {
+      "id": "849e",
+      "usuarioId": "4115",
+      "direccion": "K 12 N 41",
+      "nombre": "wilmer",
+      "correo": "w@gmail.com",
+      "telefono": "93218938",
+      "productos": [
+        {
+          "id": "fa53",
+          "nombre": " Helado Polet mini surtido x6und x45g",
+          "precio": "20.890",
+          "descripcion": "Pack x 6 und de Mini Polet, mezcla de paletas de Cookies and Cream y Frutos del bosque.\nLa mejor combinación de dulzura y elegancia para disfrutar en compañía o solo.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/522592-1600-1600?v=638307581187130000&width=1600&height=1600&aspect=true",
+          "categoria": "Helados",
+          "cantidad": 1,
+          "marca": "POLET",
+          "estado": "activo"
+        }
+      ],
+      "fecha": "2024-10-21T03:10:26.074Z",
+      "estadoPedido": "pendiente",
+      "estado": "activo",
+      "metodoPago": "efectivo"
+    },
+    {
+      "id": "d6b2",
+      "usuarioId": "fcf0",
+      "direccion": "calle 183 #28",
+      "nombre": "james  rodriguez",
+      "correo": "davidm435465123@gmail.com",
+      "telefono": "2108108213",
+      "productos": [
+        {
+          "id": "123f",
+          "nombre": "Cerveza Heineken 6 pack lata x269ml",
+          "precio": "19.400",
+          "descripcion": "Cerveza Heineken 6 pack lata x269ml. El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/435457-1600-1600?v=638023180358170000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 1,
+          "marca": "Babaria",
+          "estado": "activo"
+        }
+      ],
+      "fecha": "2024-10-21T04:08:21.059Z",
+      "estadoPedido": "pendiente",
+      "estado": "activo",
+      "metodoPago": "efectivo"
+    }
+  ],
+  "ventas": [
+    {
+      "id": "c1f5",
+      "productos": [
+        {
+          "id": "0dc7",
+          "nombre": "Galleta Gol chocolate x3und x93g cu",
+          "precio": "4.690",
+          "descripcion": "Combinación del más delicioso chocolate, galleta, arroz crujiente, caramelo, maní y almendras para llenar de sensaciones tu boca.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/194548-1600-1600?v=637814055458900000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 1,
+          "marca": "GOL",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "1031808326",
+      "total": 4.69,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "055c",
+      "productos": [
+        {
+          "id": "ce57",
+          "nombre": "Snickers barra de chocolate y maní x52.7g",
+          "precio": "6.090",
+          "descripcion": "Deliciosa barra de chocolate de leche * Rellena de maní, cremoso caramelo y nougat",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/367867-1600-1600?v=637889251308670000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 1,
+          "marca": "Snickers",
+          "estado": "activo"
+        },
+        {
+          "id": "3c27",
+          "nombre": "Atún En Agua Van Camps x 160g x 4und",
+          "precio": "35.270",
+          "descripcion": "Atun En Agua Van Camps, delicioso y nutritivo perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652029-1600-1600?v=638578552980330000&width=1600&height=1600&aspect=true",
+          "categoria": "Enlatados",
+          "cantidad": 1,
+          "marca": "Van Camps",
+          "estado": "activo"
+        },
+        {
+          "id": "08a5",
+          "nombre": " Sardina Van Camps Salsa Tomate x 225g",
+          "precio": "6.470",
+          "descripcion": "Sardina Vancamps Premium Salsa Tomate, deliciosas y nutritivas perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652128-1600-1600?v=638578553793170000&width=1600&height=1600&aspect=true",
+          "categoria": "Enlatados",
+          "cantidad": 1,
+          "marca": "Van Camps",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "10218201312",
+      "total": 47.83,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "17a7",
+      "productos": [
+        {
+          "id": "7fd5",
+          "nombre": "Atún Aceite Oliva 3und x 80g Van Camps",
+          "precio": "13.790",
+          "descripcion": "Atun Aceite Oliva, delicioso y nutritivo perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652019-1600-1600?v=638578552939870000&width=1600&height=1600&aspect=true",
+          "categoria": "Enlatados",
+          "cantidad": 1,
+          "marca": "Van Camps",
+          "estado": "activo"
+        },
+        {
+          "id": "123f",
+          "nombre": "Cerveza Heineken 6 pack lata x269ml",
+          "precio": "19.400",
+          "descripcion": "Cerveza Heineken 6 pack lata x269ml. El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/435457-1600-1600?v=638023180358170000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 1,
+          "marca": "Babaria",
+          "estado": "activo"
+        },
+        {
+          "id": "794a",
+          "nombre": "Cerveza Corona lata x6unds x269ml",
+          "precio": "19.890",
+          "descripcion": "Tipo de cerveza: Lager. País de Origen: México ABV: 4,5%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440072-1600-1600?v=638043996747900000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 1,
+          "marca": "Babaria",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "11012018213",
+      "total": 53.08,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "9a86",
+      "productos": [
+        {
+          "id": "05ec",
+          "nombre": " Desengrasante maxima citrico x1000ml",
+          "precio": "8.000",
+          "descripcion": "Desengrasante maxima citrico x1000ml",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/198924-1600-1600?v=637814139078470000&width=1600&height=1600&aspect=true",
+          "categoria": "Aseo",
+          "cantidad": 1,
+          "marca": "MAXIMA MP",
+          "estado": "activo"
+        },
+        {
+          "id": "383f",
+          "nombre": " Atún Cuisine&Co lomo aceite soya x4und x160g c-u",
+          "precio": "4.490",
+          "descripcion": "Lomos de atún (thunnus albacares), Aceite vegetal de soya, Agua, Sal, Pescado",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/381411-1600-1600?v=637923060574430000&width=1600&height=1600&aspect=true",
+          "categoria": "Enlatados",
+          "cantidad": 1,
+          "marca": "CUISINE & CO NBE MP",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "102081208",
+      "total": 12.49,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "af38",
+      "productos": [
+        {
+          "id": "b3cd",
+          "nombre": "Home Care eliminador de olores Frutos Rojos x400ml",
+          "precio": "7.590",
+          "descripcion": "Desinfectante Home Care eliminador de malos olores Frutos Rojos x400ml",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/378871-1600-1600?v=637916947079700000&width=1600&height=1600&aspect=true",
+          "categoria": "Aseo",
+          "cantidad": 2,
+          "marca": "HOME CARE MP",
+          "estado": "activo"
+        },
+        {
+          "id": "08a5",
+          "nombre": " Sardina Van Camps Salsa Tomate x 225g",
+          "precio": "6.470",
+          "descripcion": "Sardina Vancamps Premium Salsa Tomate, deliciosas y nutritivas perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652128-1600-1600?v=638578553793170000&width=1600&height=1600&aspect=true",
+          "categoria": "Enlatados",
+          "cantidad": 1,
+          "marca": "Van Camps",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "1208102813",
+      "total": 21.65,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "d058",
+      "productos": [
+        {
+          "id": "ce57",
+          "nombre": "Snickers barra de chocolate y maní x52.7g",
+          "precio": "6.090",
+          "descripcion": "Deliciosa barra de chocolate de leche * Rellena de maní, cremoso caramelo y nougat",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/367867-1600-1600?v=637889251308670000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 1,
+          "marca": "Snickers",
+          "estado": "activo"
+        },
+        {
+          "id": "12ef",
+          "nombre": "Chocolatina Jet Leche x12und x132g",
+          "precio": "12.750",
+          "descripcion": "Regálate a ti mismo o a tus seres queridos un momento de felicidad con los productos que Jet trae para ti.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/653021-1600-1600?v=638582162050400000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 1,
+          "marca": "Jet",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "12080831312",
+      "total": 18.84,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Nequi",
+      "estado": "activo"
+    },
+    {
+      "id": "4ba0",
+      "productos": [
+        {
+          "id": "3445",
+          "nombre": "Cerveza Coronita botella x6und x210ml",
+          "precio": "7.500",
+          "descripcion": "Tipo de cerveza: Lager. País de Origen: México ABV: 4,5%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440069-1600-1600?v=638043996740100000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 3,
+          "marca": "Babaria",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "1008121321",
+      "total": 22.5,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "0fbd",
+      "productos": [
+        {
+          "id": "ce57",
+          "nombre": "Snickers barra de chocolate y maní x52.7g",
+          "precio": "6.090",
+          "descripcion": "Deliciosa barra de chocolate de leche * Rellena de maní, cremoso caramelo y nougat",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/367867-1600-1600?v=637889251308670000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 3,
+          "marca": "Snickers",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "120192813",
+      "total": 18.27,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "520d",
+      "productos": [
+        {
+          "id": "3c27",
+          "nombre": "Atún En Agua Van Camps x 160g x 4und",
+          "precio": "35.270",
+          "descripcion": "Atun En Agua Van Camps, delicioso y nutritivo perfecto para acompañar tus comidas y crear maravillosas recetas y deleitar tu paladar y el de los tuyos.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/652029-1600-1600?v=638578552980330000&width=1600&height=1600&aspect=true",
+          "categoria": "Enlatados",
+          "cantidad": 1,
+          "marca": "Van Camps",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "1018213123",
+      "total": 35.27,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "5875",
+      "productos": [
+        {
+          "id": "c986",
+          "nombre": "Blanqueador en Gel Clorox Pureza Cítrica x1L",
+          "precio": "9.190",
+          "descripcion": "Blanqueador en Gel Clorox, aroma a pureza cítrica, tiene una fórmula con mayor efecto limpiador que elimina el 99,9% de virus y bacterias, desinfecta, desodoriza y blanquea cada superficie. Además, brinda 48 horas de prevención contra las bacterias.",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/533943-1600-1600?v=638332407824600000&width=1600&height=1600&aspect=true",
+          "categoria": "Aseo",
+          "cantidad": 1,
+          "marca": "CLOROX",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "1031808326",
+      "total": 9.19,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "73ab",
+      "productos": [
+        {
+          "id": "105c",
+          "nombre": "Cerveza Poker lata x6und x330ml cu",
+          "precio": "18.000",
+          "descripcion": "Tipo de cerveza: Lager. País de origen: Colombia. ABV: 4,0%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440018-1600-1600?v=638043996576070000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 1,
+          "marca": "Babaria",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "1031808326",
+      "total": 18,
+      "fechaVenta": "17/9/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "778e",
+      "productos": [
+        {
+          "id": "3445",
+          "nombre": "Cerveza Coronita botella x6und x210ml",
+          "precio": "7.500",
+          "descripcion": "Tipo de cerveza: Lager. País de Origen: México ABV: 4,5%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440069-1600-1600?v=638043996740100000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 2,
+          "marca": "Babaria",
+          "estado": "activo"
+        },
+        {
+          "id": "105c",
+          "nombre": "Cerveza Poker lata x6und x330ml cu",
+          "precio": "18.000",
+          "descripcion": "Tipo de cerveza: Lager. País de origen: Colombia. ABV: 4,0%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440018-1600-1600?v=638043996576070000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 1,
+          "marca": "Babaria",
+          "estado": "activo"
+        },
+        {
+          "id": "b5c6",
+          "nombre": "Cerveza Aguila Original lata x6und x330ml",
+          "precio": "18.000",
+          "descripcion": "Tipo de cerveza: Lager. País de origen: Colombia. ABV: 4,0%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/439991-1600-1600?v=638043996501300000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 1,
+          "marca": "Babaria",
+          "estado": "activo"
+        },
+        {
+          "id": "ce57",
+          "nombre": "Snickers barra de chocolate y maní x52.7g",
+          "precio": "6.090",
+          "descripcion": "Deliciosa barra de chocolate de leche * Rellena de maní, cremoso caramelo y nougat",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/367867-1600-1600?v=637889251308670000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 1,
+          "marca": "Snickers",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "121212131",
+      "total": 57.09,
+      "fechaVenta": "11/10/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "d649",
+      "productos": [
+        {
+          "id": "3445",
+          "nombre": "Cerveza Coronita botella x6und x210ml",
+          "precio": "7.500",
+          "descripcion": "Tipo de cerveza: Lager. País de Origen: México ABV: 4,5%.El exceso de alcohol es perjudicial para la salud. Ley 30 de 1986. Prohíbase el expendio de bebidas embriagantes a menores de edad ley 124 1994",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/440069-1600-1600?v=638043996740100000&width=1600&height=1600&aspect=true",
+          "categoria": "Licores",
+          "cantidad": 17,
+          "marca": "Babaria",
+          "estado": "activo"
+        }
+      ],
+      "tipoDocumento": "",
+      "numeroDocumento": "1031653106",
+      "total": 127.5,
+      "fechaVenta": "18/10/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    },
+    {
+      "id": "8cbf",
+      "productos": [
+        {
+          "id": "ce57",
+          "nombre": "Snickers barra de chocolate y maní x52.7g",
+          "precio": "6.090",
+          "descripcion": "Deliciosa barra de chocolate de leche * Rellena de maní, cremoso caramelo y nougat",
+          "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/367867-1600-1600?v=637889251308670000&width=1600&height=1600&aspect=true",
+          "categoria": "Confitería",
+          "cantidad": 1,
+          "marca": "Snickers",
+          "estado": "activo"
+        }
+      ],
+      "numeroDocumento": "1031808326",
+      "total": 6.09,
+      "fechaVenta": "24/10/2024",
+      "metodoPago": "Efectivo",
+      "estado": "activo"
+    }
+  ],
+  "direcciones": [
+    {
+      "direccion": "calle 183 #28",
+      "usuarioId": "fcf0",
+      "id": "d5dc"
+    }
+  ]
+}
