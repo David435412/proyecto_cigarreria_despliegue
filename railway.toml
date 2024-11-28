@@ -1,0 +1,13 @@
+# Configuración de Railway para proyectos con frontend y backend
+
+[build]
+  # Comando para instalar dependencias y construir el frontend
+  frontend = "cd frontend && npm install && npm run build"
+
+[services.backend]
+  # Configuración para el backend
+  start = "cd backend && npm install && node server.js"
+
+[static]
+  # Configuración para servir los archivos estáticos del frontend
+  path = "frontend/build"
